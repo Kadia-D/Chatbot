@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey There"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi"
+    },
+    {
+      "question": "How are you/",
+      "answer": "I'm good and you?"
+    },
+    {
+      "question": "Tell me a good joke",
+      "answer": "You are a good example of a joke"
+    },
+    {
+      "question": "...",
+      "answer": "What is on your mind?"
+    },
+    {
+      "question": "hi",
+      "answer": "Hi"
+    },
+    {
+      "question": "That's great",
+      "answer": "It is isn't it?"
+    },
+    {
+      "question": "yh no problem",
+      "answer": "Cool"
+    }
+  ]
+}
