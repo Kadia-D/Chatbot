@@ -38,7 +38,7 @@ def chat_bot():
             new_answer: str = input('Type the answer or "skip" to skip: ')
 
             if new_answer.lower() != 'skip':
-                knowledge["questions"]. append({"question": user_input, "answer": new_answer})
+                knowledge["questions"].append({"question": user_input, "answer": new_answer})
                 save_knowledge('knowledge.json', knowledge)
                 print('Bot:Thank you! I learned a new response!')
 
